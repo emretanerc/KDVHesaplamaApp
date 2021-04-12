@@ -1,6 +1,6 @@
 # KDVHesapla
 
-A new Flutter project.
+![](preview.gif)
 
 ## Getting Started
 
