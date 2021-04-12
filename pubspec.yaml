@@ -39,9 +39,7 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
-flutter:
-  uses-material-design: true
-  assets:
+
     
 #flutter_icons:
 #  android: "launcher_icon"
