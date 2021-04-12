@@ -28,8 +28,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  english_words:  ^ 4.0.0-0
-  # flutter_launcher_icons: "^0.8.0"
+  flutter_launcher_icons: "^0.8.0"
   flutter_native_splash: ^1.1.7
  
 dev_dependencies:
@@ -43,8 +42,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - lib/assets/nh.jpg
-
+    
 #flutter_icons:
 #  android: "launcher_icon"
 #  ios: true
